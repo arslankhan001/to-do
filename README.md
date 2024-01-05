@@ -1,2 +1,3 @@
 # to-do
- a basic to-do app
+ a simple to-do app to keep track of your daily tasks.
+ 
